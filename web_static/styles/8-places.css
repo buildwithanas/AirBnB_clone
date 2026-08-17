@@ -22,5 +22,10 @@
 }
 .information .max_guest{
 	width: 100px;
-
+}
+.information .number_rooms{
+	width: 100px;
+}
+.information .number_bathrooms{
+	width: 100px;
 }
